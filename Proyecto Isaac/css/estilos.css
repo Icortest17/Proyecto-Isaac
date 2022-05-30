@@ -1,0 +1,6 @@
+/*Modifico el padding para que quede bien el boostrap*/
+
+main > .container {
+    padding: 30px;
+}
+
